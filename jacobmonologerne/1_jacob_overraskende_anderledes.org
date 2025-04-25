@@ -1,0 +1,17 @@
+:HEADER:
+#+title: 1 Jacob Overraskende Anderledes
+#+language: da
+:END:
+
+** Indledning
+Velkommen til første del af "Jacob-Monologerne", en program-serie i fire dele.
+
+Dette program har jeg kaldt "Jacob, overraskende anderledes", og det er fordi jeg efterhånden har opdaget, at jeg bliver betragtet som en ganske anden end den person, jeg i virkeligheden er.
+
+Jeg vil i det følgende forsøge at redegøre for hvad grundene er til at jeg kan blive opfattet anderledes, og give et bud på hvem jeg i virkeligheden er som person.
+
+
+:SPELLING:
+# <!-- Local IspellDict: da -->
+# <!-- Local IspellPersDict: ~/Dropbox/skriv/aspell-da -->
+:END:

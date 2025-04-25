@@ -1,0 +1,3 @@
+* Scripts
+The teleprompter scripts to be used for my video production.
+
