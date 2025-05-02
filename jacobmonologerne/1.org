@@ -1,6 +1,15 @@
 :HEADER:
-#+title: 1 Jacob Overraskende Anderledes
-#+language: da
+#+TITLE: Overraskende Anderledes
+#+AUTHOR: Jacob Moena
+#+OPTIONS: toc:nil
+#+OPTIONS: num:nil
+#+OPTIONS: todo:nil
+#+OPTIONS: tags:nil
+#+DESCRIPTION: The Gift
+#+EXCLUDE_TAGS: noexport
+#+KEYWORDS:
+#+LANGUAGE: da
+#+SELECT_TAGS: export
 :END:
 
 ** Indledning
